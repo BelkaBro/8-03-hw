@@ -39,7 +39,8 @@
 ![img](img/Screenshot_4.png)
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-https://github.com/BelkaBro/8-03-hw/commit/068548e22a0cb014b437b3268d3886ba1e610bf5
+
+[ссылка на коммит](https://github.com/BelkaBro/8-03-hw/commit/068548e22a0cb014b437b3268d3886ba1e610bf5)
 
 
 # Задание 3
