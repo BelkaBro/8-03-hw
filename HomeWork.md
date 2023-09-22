@@ -52,4 +52,4 @@ https://github.com/BelkaBro/8-03-hw/commit/068548e22a0cb014b437b3268d3886ba1e610
 8.	Не удаляйте ветку dev.
 9.	В качестве ответа прикрепите ссылку на граф коммитов в ваш md-файл с решением.
 
-[ссылка](https://github.com/BelkaBro/8-03-hw/network)
+[графф коммитов](https://github.com/BelkaBro/8-03-hw/network)
