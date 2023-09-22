@@ -5,4 +5,5 @@
 2.	Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 3.	Склонируйте репозиторий, используя https протокол git clone ....
 4.	Перейдите в каталог с клоном репозитория.
-!img(img/Screenshot_10.png)
+
+![img](img/Screenshot_10.png)
